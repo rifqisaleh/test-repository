@@ -5,3 +5,4 @@ learning w00
     ^Lecture 3 - Terminal and CLI
     ^Lecture 4 - Git
     ^Lecture 5 - Git Collaboration
+    ^Lecture 6 - Week 1 Frontend
